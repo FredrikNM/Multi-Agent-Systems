@@ -8,6 +8,3 @@ green circle, to ask for help.
   
 A Particle swarm optimization
 
-![](2d_oppgave.gif)
-  
-
