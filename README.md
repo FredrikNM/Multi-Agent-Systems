@@ -11,3 +11,5 @@ A Particle swarm optimization
 Will update gif later, but for now click the picture to see the animation.
   
 ![](2d_oppgave.gif)
+
+./gifsicle -bl 2d_oppgave.gif
