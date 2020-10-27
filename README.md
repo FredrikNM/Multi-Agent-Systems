@@ -7,7 +7,7 @@ it to be solved. The green circle that you see is a signal sent out to anyone in
   
   
 A Particle swarm optimization. At each time step every particle updates their direction and velocity according to  
-their own best overall position according to the signal (blue dot), and the overall best position for every particle.
+their own best overall position to the signal (blue dot), and the overall best position for every particle.
 
 ![](2d_opt.gif)
 
