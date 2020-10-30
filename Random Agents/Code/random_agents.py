@@ -112,7 +112,7 @@ def simulate_movement(agents, agent_radius, x_y_walls, steps_per_timeunit, movem
 			tasks.append(spawn_task(x_y_walls))
 
 	# Finding direction to move for each agent
-	direction = movement_function(len(agents))
+	direction = movement_function(len(agents)).astype(np.float)
 
 
 
