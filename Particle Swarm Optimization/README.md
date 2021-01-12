@@ -13,7 +13,6 @@ At each time step we draw two unifrom numbers for each particle, noted U<sub>i1<
 Then we update position with :
 
 
-Pos = current_pos + updated_velocity
-
-| WARNING: be careful to baz the quux before initializing the retro encabulator! |
+| Pos = current_pos + updated_velocity|
 | --- |
+
